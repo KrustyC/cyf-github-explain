@@ -1,0 +1,8 @@
+{
+  "name": "cyf-github-explain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:KrustyC/cyf-github-explain.git",
+  "author": "<davide.crestini94@gmail.com>",
+  "license": "MIT"
+}
