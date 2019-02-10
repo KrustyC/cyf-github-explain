@@ -1,2 +1,2 @@
 console.log('Hello GitHub')
-console.log("Hello I'm Najla")
+console.log("Hi I'm Najla")
